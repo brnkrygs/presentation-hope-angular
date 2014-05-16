@@ -7,3 +7,5 @@ The presentation is intended to be used as a supplement during a workshop on [An
 ##### Created with
 
 [Reveal.js](http://github.com/hakimel/reveal.js).
+
+[GH Pages Site](http://brnkrygs.github.io/presentation-hope-angular).
